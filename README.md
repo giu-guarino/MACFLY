@@ -13,7 +13,7 @@ The framework addresses three core challenges of cross-year transfer in remote s
 
 MACFLY builds on a SWIN-enhanced TSViT backbone and combines two complementary adaptation mechanisms: an **axial CORAL loss** for second-order feature covariance alignment, and a **Rare Class Sampling (RCS)** strategy to stabilise minority classes during training.
 
-> **Paper:** *Back to the Past: Cross-Year Unsupervised Domain Adaptation for Dense Land Cover Segmentation from Satellite Image Time Series* —under review.
+> **Paper:** *Back to the Past: Cross-Year Unsupervised Domain Adaptation for Dense Land Cover Segmentation from Satellite Image Time Series* — under review.
 
 ---
 
@@ -153,4 +153,4 @@ If you use MACFLY in your research, please cite:
   note      = {Under review}
 }
 ```
-# MACFLY
+
