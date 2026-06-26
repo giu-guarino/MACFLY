@@ -1,0 +1,18 @@
+architecture:  "TSViT"
+img_res: 64
+max_seq_len: 12
+num_channels: 7
+num_features:
+num_classes: 10
+ignore_background: True
+dropout: 0.
+patch_size: 2
+dim: 128
+temporal_depth: 4
+spatial_depth: 4
+heads: 4
+pool: 'cls'
+dim_head: 32
+emb_dropout: 0.
+scale_dim: 4
+alpha: 1 # grl
